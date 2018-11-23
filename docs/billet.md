@@ -11,9 +11,8 @@
   - Francois Teychene ([Twitter](https://twitter.com/fteychene), [GitHub](https://github.com/fteychene))
 - Audience : 100 spectateurs
 - Auteur du billet : Tom Masson
-- Mots-clés: Microservice, monolith, distributed services,
+- Mots-clés: Microservice, migroservice, monolith, distributed services, automatisation, container
 - URL de l'illustration : ![Slide conf](image.png)
-  - quelques sources : , ...
 
 ## Support
 
