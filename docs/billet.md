@@ -23,6 +23,7 @@
 ## Résumé
 
 La volonté de migrer sur des projets utilisant les microservices est de plus en plus présente au sein des entreprises. Le microservice est à la mode, notemment à cause des architectures monolithiques lourdes, lentes, peu maintenables et peu scalables. Cette architecture semble être une solution toute faite résolvant beaucoup de points négatifs assez facilement. Cependant, les débuts ne sont pas évident. La première mise en production d'une telle architecture est souvent synonyme d'échec. En effet, il y a beaucoup de technologies différentes qui sont chères techniquement, un système de déploiement automatique à mettre en place ainsi qu'un traitement des erreurs, un système de logs et du "recovering"... Tous ces systèmes doivent être pensés dès le début du projet. En plus de cela, il faut arriver à rester dans le cadre des microservices et ne pas passer dans le migroservice. En effet, il est assez aisé de se perdre dans le fil de développement de son application et de finir avec des bouts de monolithe dans un service.
+Une solution hybride et moins couteuse que de faire du microservice, serait de faire du monolithe modulaire: un bon compromis selon F. Teychene.
 
 ## Architecture et facteur qualité
 
