@@ -27,4 +27,6 @@ Une solution hybride et moins couteuse que de faire du microservice, serait de f
 
 ## Architecture et facteur qualité
 
-...
+Interopérabilité
+Tolérance aux pannes
+Facilité de modification
