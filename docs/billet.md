@@ -18,7 +18,7 @@
 
 - Lien vers le support (diapos) présenté en conférence : [Slides conférence](https://docs.google.com/presentation/d/1Z3hkFPBPBTX7sRxmwzBnPfS_AaI6zLz18BrMeSpmXw8/present?slide=id.g480600b79f_0_1973)
 - Nombre de diapos du support : 87
-- Plan du support :
+- Plan du support : pas de plan annoncé
 
 ## Résumé
 
