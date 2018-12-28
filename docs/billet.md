@@ -27,6 +27,6 @@ Une solution hybride et moins couteuse que de faire du microservice, serait de f
 
 ## Architecture et facteur qualité
 
-- Interopérabilité
-- Tolérance aux pannes
-- Facilité de modification
+- Interopérabilité: la plupart du temps utilisé dans des conteneurs docker, les microservices peuvent donc être exécutés sous n'importe quel os et dans n'importe quel environnement
+- Tolérance aux pannes: l'un des buts du découpage d'une architecture monolythique est d'améliorer la tolérance aux pannes (auto healing, backup service, mode dégradé...)
+- Facilité de modification: Plus les services sont petits plus ils sont simples de compréhension et de modification
